@@ -1,4 +1,4 @@
-strealit
+streamlit
 pandas
-plotly_express
+plotly.express
 openpyxl
