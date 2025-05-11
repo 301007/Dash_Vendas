@@ -20,13 +20,6 @@ lucro_categoria = df.groupby('Categoria')['Lucro'].sum().reset_index()
 lucro_mes_categoria = df.groupby(['Mês-Ano', 'Categoria'])['Lucro'].sum().reset_index()
 
 def main():
-
-    st.title('Análise de Vendas')
-    st.image('vendas.png')
-
-    import streamlit as st
-
-def main():
     st.title('Análise de Vendas')
     st.image('vendas.png')
 
