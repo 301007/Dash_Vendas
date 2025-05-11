@@ -1,0 +1,4 @@
+strealit
+pandas
+plotly_express
+openpyxl
